@@ -62,7 +62,7 @@ CUDA_VISIBLE_DEVICES=1 python3 GGCD.py
 ![](Sampling.png)
 Users can generate novel molecules by providing specific conditions in Sampling.py.  
 
-Pre-trained Weights:
+Pre-trained Weights:  
 Please download the pre-trained weights from [here](https://hisbim.life.nctu.edu.tw/Compound_moiety/150_0.0008395609329454601.pt) and place the file in: ./GCMDiff_sampling/denoising_diffusion/model_weight/.
 
 

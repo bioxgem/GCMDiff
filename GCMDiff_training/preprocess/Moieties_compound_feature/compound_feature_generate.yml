@@ -1,0 +1,17 @@
+# 環境名稱已更新為 moieties-compound-features
+name: moieties-compound-features
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  # - Python 建議使用 3.11 或 3.12 的最新修訂版
+  - python=3.12.4 
+  
+  - rdkit=2024.03.6
+
+  - pandas=2.2.3
+
+  # - NumPy 2.0 是重大更新，若求穩定可換回 1.26.x
+  - numpy=2.0.*
+
+  - tqdm=4.67.1

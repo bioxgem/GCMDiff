@@ -1,0 +1,15 @@
+Molecule-1
+  DSViewer          3D                             0
+
+  2  1  0  0  0  0  0  0  0  0999 V2000
+   -3.7062    2.7066   -3.3586 C   0  0  0  0  0  0  0  0  0  0
+   -2.6632    2.8739   -2.4055 O   0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0
+M  END
+> <Initial Dreiding Energy>
+13.070135
+
+> <Final Dreiding Energy>
+1.987759
+
+$$$$
